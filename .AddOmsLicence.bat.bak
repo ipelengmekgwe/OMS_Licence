@@ -1,5 +1,0 @@
-cd %1
-git add .
-git commit -m "add new licence"
-git push
-pause
